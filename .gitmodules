@@ -1,0 +1,15 @@
+[submodule "RusPySparx"]
+	path = RusPySparx
+	url = git@github.com:RusDavies/RusPySparx.git
+[submodule "PyAutoWrapper"]
+	path = PyAutoWrapper
+	url = git@github.com:RusDavies/PyAutoWrapper.git
+[submodule "PyGitHubMapper"]
+	path = PyGitHubMapper
+	url = git@github.com:RusDavies/PyGitHubMapper.git
+[submodule "PyLog4JAnalysis"]
+	path = PyLog4JAnalysis
+	url = git@github.com:RusDavies/PyLog4JAnalysis.git
+[submodule "RusPyJira"]
+	path = RusPyJira
+	url = git@github.com:RusDavies/RusPyJira.git

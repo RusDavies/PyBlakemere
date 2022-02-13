@@ -13,3 +13,6 @@
 [submodule "RusPyJira"]
 	path = RusPyJira
 	url = git@github.com:RusDavies/RusPyJira.git
+[submodule "PyStatisticalAnalysis"]
+	path = PyStatisticalAnalysis
+	url = git@github.com:RusDavies/PyStatisticalAnalysis.git

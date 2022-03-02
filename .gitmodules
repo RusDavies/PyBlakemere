@@ -16,3 +16,6 @@
 [submodule "PyStatisticalAnalysis"]
 	path = PyStatisticalAnalysis
 	url = git@github.com:RusDavies/PyStatisticalAnalysis.git
+[submodule "PyMemoize"]
+	path = PyMemoize
+	url = git@github.com:RusDavies/PyMemioize.git

@@ -19,3 +19,6 @@
 [submodule "PyMemoize"]
 	path = PyMemoize
 	url = git@github.com:RusDavies/PyMemioize.git
+[submodule "PyPrometheus"]
+	path = PyPrometheus
+	url = git@github.com:RusDavies/PyPrometheus.git
